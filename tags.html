@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>标签 · Dream的博客</title>
+<meta name="description" content="全部标签">
+<meta name="keywords" content="个人博客,随笔,小说,项目心得,前端">
+<meta name="author" content="Dream">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:type" content="website">
+<meta property="og:title" content="标签 · Dream的博客">
+<meta property="og:description" content="全部标签">
+<meta property="og:site_name" content="Dream的博客">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="Dream的博客 · RSS" href="feed.xml">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem('theme');
+    if (!t) { t = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
+    document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {
+    document.documentElement.setAttribute('data-theme', 'light');
+  }
+})();
+</script>
+</head>
+<body data-page="tags">
+<a class="skip-link" href="#main">跳到正文</a>
+
+<header id="site-header"></header>
+
+<div class="layout">
+  <aside id="site-sidebar"></aside>
+  <main id="main">
+    <div class="empty-state">
+      <p class="empty-title">正在加载…</p>
+      <p class="empty-sub">如果长时间停留在这里，请确认已执行 node tools/build.js</p>
+    </div>
+  </main>
+</div>
+
+<footer id="site-footer"></footer>
+<button id="back-to-top" type="button" aria-label="回到顶部"></button>
+
+<script src="data/site.js"></script>
+<script src="data/posts.js"></script>
+<script src="assets/js/markdown.js"></script>
+<script src="assets/js/highlight.js"></script>
+<script src="assets/js/site.js"></script>
+<script src="assets/js/pages.js"></script>
+</body>
+</html>

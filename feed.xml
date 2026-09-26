@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dream的博客</title>
+    <link>https://dream.github.io/</link>
+    <description>一个记录随笔、小说与技术项目心得的地方。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 26 Sep 2026 16:41:24 +0800</lastBuildDate>
+    <atom:link href="https://dream.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>写在开篇：为什么要有一个自己的博客</title>
+      <link>https://dream.github.io/post.html?slug=hello-blog</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=hello-blog</guid>
+      <pubDate>Sun, 20 Sep 2026 21:30:00 +0800</pubDate>
+      <category>随笔</category>
+      <description>在社交平台写过很多东西，散落在各个时间线里，过一阵子就再也找不回来。于是决定开一个属于自己的地方。</description>
+    </item>
+    <item>
+      <title>深夜的键盘声</title>
+      <link>https://dream.github.io/post.html?slug=deep-night-keyboard</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=deep-night-keyboard</guid>
+      <pubDate>Sat, 12 Sep 2026 23:48:00 +0800</pubDate>
+      <category>随笔</category>
+      <description>凌晨的城市安静下来之后，只剩下键盘的声音陪着我。这篇写点没什么用的话。</description>
+    </item>
+    <item>
+      <title>雨夜列车（第一章）</title>
+      <link>https://dream.github.io/post.html?slug=rainy-night-train</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=rainy-night-train</guid>
+      <pubDate>Sun, 30 Aug 2026 20:10:00 +0800</pubDate>
+      <category>小说</category>
+      <description>列车在雨里开了四个小时，车厢里只剩他和对面那个抱着纸箱的女孩。</description>
+    </item>
+    <item>
+      <title>灯塔守夜人（第一节）</title>
+      <link>https://dream.github.io/post.html?slug=lighthouse-keeper</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=lighthouse-keeper</guid>
+      <pubDate>Tue, 18 Aug 2026 22:05:00 +0800</pubDate>
+      <category>小说</category>
+      <description>岛上只有一座灯塔和一个人。第二十三天，无线电里第一次传来了不属于海的声音。</description>
+    </item>
+    <item>
+      <title>用 Hexo + NexT 从零搭一个自己的博客</title>
+      <link>https://dream.github.io/post.html?slug=hexo-next-setup</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=hexo-next-setup</guid>
+      <pubDate>Thu, 06 Aug 2026 19:20:00 +0800</pubDate>
+      <category>项目心得</category>
+      <description>记录一次完整的建站过程，从环境准备到线上可访问。全程零成本，只依赖 Node.js 和一个 GitHub 账号。</description>
+    </item>
+    <item>
+      <title>静态博客性能优化清单</title>
+      <link>https://dream.github.io/post.html?slug=static-blog-performance</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=static-blog-performance</guid>
+      <pubDate>Sat, 25 Jul 2026 21:00:00 +0800</pubDate>
+      <category>项目心得</category>
+      <description>静态站点本身已经很快，但&quot;快&quot;和&quot;很快&quot;之间还有不少空间。这是我这几轮优化下来真正有效的几条。</description>
+    </item>
+    <item>
+      <title>我的 Markdown 写作工作流</title>
+      <link>https://dream.github.io/post.html?slug=markdown-writing-workflow</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=markdown-writing-workflow</guid>
+      <pubDate>Fri, 10 Jul 2026 20:40:00 +0800</pubDate>
+      <category>项目心得</category>
+      <description>三年下来，写作流程被压缩得只剩几个步骤。分享出来，也当作给自己留一份记录。</description>
+    </item>
+    <item>
+      <title>用 CSS 变量做一套不刺眼的暗色主题</title>
+      <link>https://dream.github.io/post.html?slug=css-vars-dark-mode</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=css-vars-dark-mode</guid>
+      <pubDate>Sun, 28 Jun 2026 22:30:00 +0800</pubDate>
+      <category>项目心得</category>
+      <description>暗色主题做得好不好，判断标准只有一个：读半小时眼睛累不累。纯黑背景配纯白文字，是大多数人第一次做暗色主题时会犯的错。</description>
+    </item>
+    <item>
+      <title>关于坚持这件小事</title>
+      <link>https://dream.github.io/post.html?slug=about-persistence</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=about-persistence</guid>
+      <pubDate>Mon, 15 Jun 2026 21:15:00 +0800</pubDate>
+      <category>随笔</category>
+      <description>坚持三年写东西之后，我发现真正起作用的不是意志力，而是把门槛降到足够低。</description>
+    </item>
+    <item>
+      <title>前端代码高亮的实现选型笔记</title>
+      <link>https://dream.github.io/post.html?slug=code-highlight-notes</link>
+      <guid isPermaLink="true">https://dream.github.io/post.html?slug=code-highlight-notes</guid>
+      <pubDate>Tue, 02 Jun 2026 20:00:00 +0800</pubDate>
+      <category>项目心得</category>
+      <description>博客里的代码块多，所以&quot;用什么做高亮&quot;这个问题绕不过去。把选型过程记一下。</description>
+    </item>
+  </channel>
+</rss>

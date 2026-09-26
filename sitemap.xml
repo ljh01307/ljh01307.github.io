@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dream.github.io/index.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dream.github.io/archive.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dream.github.io/categories.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dream.github.io/tags.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dream.github.io/about.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dream.github.io/post.html?slug=hello-blog</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=deep-night-keyboard</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=rainy-night-train</loc><lastmod>2026-08-30</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=lighthouse-keeper</loc><lastmod>2026-08-18</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=hexo-next-setup</loc><lastmod>2026-08-06</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=static-blog-performance</loc><lastmod>2026-07-25</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=markdown-writing-workflow</loc><lastmod>2026-07-10</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=css-vars-dark-mode</loc><lastmod>2026-06-28</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=about-persistence</loc><lastmod>2026-06-15</lastmod></url>
+  <url><loc>https://dream.github.io/post.html?slug=code-highlight-notes</loc><lastmod>2026-06-02</lastmod></url>
+</urlset>
