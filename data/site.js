@@ -12,7 +12,7 @@ window.SITE = {
   language: 'zh-CN',
 
   // 部署到 GitHub Pages 后改成真实地址，用于生成 RSS / sitemap
-  baseUrl: 'https://dream.github.io',
+  baseUrl: 'https://ljh01307.github.io',
   // 站点建立年份，页脚会显示 起始年 - 当前年
   since: 2024,
 
